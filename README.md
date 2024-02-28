@@ -11,4 +11,4 @@
 3) flask Админ-панель базы данных. Графический интерфейс, который позволяет просматривать и изменять данные в базе.
 
 тесты функционала проводились в Postman, можно открыть их в браузере
-[https://www.postman.com/giver899/workspace/test-task](url)
+[https://www.postman.com/giver899/workspace/test-task]
